@@ -4,7 +4,7 @@ Welcome to my C++ development repository! This project serves as a comprehensive
 
 ## 🌟 Overview
 
-I started this journey on **April 14, 2026**, with a clear goal: to evolve from a beginner to a proficient C++ developer. This repository is not just a collection of files, but a testament to my consistency, problem-solving skills, and passion for software engineering.
+I started this journey on **April 14, 2026**, with a clear goal: to evolve from a beginner to a proficient Full-Stack devloper. This repository is not just a collection of files, but a testament to my consistency, problem-solving skills, and passion for software engineering.
 
 ## 🎯 My Goals
 
@@ -24,7 +24,7 @@ I started this journey on **April 14, 2026**, with a clear goal: to evolve from 
 
 ## 👨‍💻 About Me
 
-I am **Azizbek Abdullayev**, an aspiring software engineer dedicated to building efficient and scalable systems.
+I am **Azizbek Abdullayev**, an aspiring Full-Stack developer dedicated to building efficient and scalable systems.
 
 ---
 
@@ -37,7 +37,7 @@ C++ dasturlash repositoryimga xush kelibsiz! Bu loyiha dunyodagi eng kuchli dast
 
 ## 🌟 Umumiy ma'lumot
 
-Men bu yo'lni **2026-yil 14-aprelda** aniq maqsad bilan boshladim: yangi o'rganuvchidan professional C++ dasturchisigacha rivojlanish. Ushbu repository shunchaki fayllar to'plami emas, balki mening intizomim, muammolarni hal qilish qobiliyatim va dasturlashga bo'lgan ishtiyoqim namunasidir.
+Men bu yo'lni **2026-yil 14-aprelda** aniq maqsad bilan boshladim: yangi o'rganuvchidan professional Full-Stack dasturchisigacha rivojlanish. Ushbu repository shunchaki fayllar to'plami emas, balki mening intizomim, muammolarni hal qilish qobiliyatim va dasturlashga bo'lgan ishtiyoqim namunasidir.
 
 ## 🎯 Maqsadlarim
 
@@ -57,6 +57,6 @@ Men bu yo'lni **2026-yil 14-aprelda** aniq maqsad bilan boshladim: yangi o'rganu
 
 ## 👨‍💻 Muallif haqida
 
-Men **Azizbek Abdullayev**, samarali va kengayuvchan tizimlar yaratishga intilayotgan bo'lajak dasturiy ta'minot muhandisiman.
+Men **Azizbek Abdullayev**, samarali va kengayuvchan tizimlar yaratishga intilayotgan bo'lajak Full-Stack dasturchisiman.
 
 </details>
